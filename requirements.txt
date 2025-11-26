@@ -1,0 +1,11 @@
+Django>=4.2,<5
+psycopg2-binary
+Pillow
+django-daraja
+twilio
+librouteros
+celery
+redis
+django-rest-framework
+python-dotenv
+
